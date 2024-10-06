@@ -1,0 +1,1082 @@
+[
+  {
+    "country": "United States of America",
+    "rank": 1,
+    "current": 83.0,
+    "delta": 5.1
+  },
+  {
+    "country": "Argentina",
+    "rank": 2,
+    "current": 81.4,
+    "delta": -0.3
+  },
+  {
+    "country": "Brazil",
+    "rank": 3,
+    "current": 81.0,
+    "delta": 3.7
+  },
+  {
+    "country": "Germany",
+    "rank": 4,
+    "current": 78.8,
+    "delta": 0.4
+  },
+  {
+    "country": "Dominican Republic",
+    "rank": 5,
+    "current": 78.7,
+    "delta": 6.0
+  },
+  {
+    "country": "Laos",
+    "rank": 6,
+    "current": 78.5,
+    "delta": 5.0
+  },
+  {
+    "country": "Denmark",
+    "rank": 7,
+    "current": 77.8,
+    "delta": -2.5
+  },
+  {
+    "country": "Marshall Islands",
+    "rank": 7,
+    "current": 77.8,
+    "delta": 0.0
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "rank": 9,
+    "current": 76.9,
+    "delta": 1.8
+  },
+  {
+    "country": "United Kingdom",
+    "rank": 9,
+    "current": 76.9,
+    "delta": -1.3
+  },
+  {
+    "country": "Ukraine",
+    "rank": 11,
+    "current": 76.4,
+    "delta": 8.0
+  },
+  {
+    "country": "Bulgaria",
+    "rank": 12,
+    "current": 74.2,
+    "delta": -0.9
+  },
+  {
+    "country": "Czech Republic",
+    "rank": 13,
+    "current": 74.0,
+    "delta": -4.3
+  },
+  {
+    "country": "Guyana",
+    "rank": 13,
+    "current": 74.0,
+    "delta": -0.2
+  },
+  {
+    "country": "Sweden",
+    "rank": 15,
+    "current": 73.2,
+    "delta": 0.1
+  },
+  {
+    "country": "Viet Nam",
+    "rank": 16,
+    "current": 73.0,
+    "delta": -1.0
+  },
+  {
+    "country": "Ireland",
+    "rank": 17,
+    "current": 72.9,
+    "delta": -2.4
+  },
+  {
+    "country": "New Zealand",
+    "rank": 17,
+    "current": 72.9,
+    "delta": -2.7
+  },
+  {
+    "country": "France",
+    "rank": 19,
+    "current": 72.8,
+    "delta": -4.2
+  },
+  {
+    "country": "Austria",
+    "rank": 20,
+    "current": 72.5,
+    "delta": -2.3
+  },
+  {
+    "country": "Canada",
+    "rank": 21,
+    "current": 72.3,
+    "delta": 0.3
+  },
+  {
+    "country": "Philippines",
+    "rank": 21,
+    "current": 72.3,
+    "delta": -0.3
+  },
+  {
+    "country": "Bangladesh",
+    "rank": 23,
+    "current": 72.2,
+    "delta": 1.4
+  },
+  {
+    "country": "Indonesia",
+    "rank": 23,
+    "current": 72.2,
+    "delta": -1.0
+  },
+  {
+    "country": "Paraguay",
+    "rank": 25,
+    "current": 71.6,
+    "delta": -10.4
+  },
+  {
+    "country": "Serbia",
+    "rank": 26,
+    "current": 71.4,
+    "delta": 4.3
+  },
+  {
+    "country": "Senegal",
+    "rank": 27,
+    "current": 71.1,
+    "delta": 23.9
+  },
+  {
+    "country": "Estonia",
+    "rank": 28,
+    "current": 71.0,
+    "delta": 10.1
+  },
+  {
+    "country": "Ghana",
+    "rank": 29,
+    "current": 70.7,
+    "delta": 10.3
+  },
+  {
+    "country": "Oman",
+    "rank": 29,
+    "current": 70.7,
+    "delta": 4.6
+  },
+  {
+    "country": "Hungary",
+    "rank": 31,
+    "current": 69.2,
+    "delta": -8.1
+  },
+  {
+    "country": "China",
+    "rank": 32,
+    "current": 69.0,
+    "delta": 4.5
+  },
+  {
+    "country": "Mauritius",
+    "rank": 33,
+    "current": 68.6,
+    "delta": 4.3
+  },
+  {
+    "country": "Belgium",
+    "rank": 34,
+    "current": 68.5,
+    "delta": -0.3
+  },
+  {
+    "country": "Poland",
+    "rank": 35,
+    "current": 68.3,
+    "delta": 3.9
+  },
+  {
+    "country": "Netherlands",
+    "rank": 36,
+    "current": 68.0,
+    "delta": -0.8
+  },
+  {
+    "country": "Croatia",
+    "rank": 37,
+    "current": 67.9,
+    "delta": 2.2
+  },
+  {
+    "country": "Romania",
+    "rank": 38,
+    "current": 67.8,
+    "delta": 6.1
+  },
+  {
+    "country": "Slovakia",
+    "rank": 39,
+    "current": 67.4,
+    "delta": -3.2
+  },
+  {
+    "country": "Lithuania",
+    "rank": 40,
+    "current": 67.0,
+    "delta": 8.5
+  },
+  {
+    "country": "Finland",
+    "rank": 41,
+    "current": 66.6,
+    "delta": -2.4
+  },
+  {
+    "country": "Mali",
+    "rank": 42,
+    "current": 66.4,
+    "delta": -1.5
+  },
+  {
+    "country": "Chile",
+    "rank": 43,
+    "current": 66.3,
+    "delta": 0.7
+  },
+  {
+    "country": "Nepal",
+    "rank": 44,
+    "current": 65.6,
+    "delta": -0.5
+  },
+  {
+    "country": "Australia",
+    "rank": 45,
+    "current": 65.3,
+    "delta": 9.2
+  },
+  {
+    "country": "India",
+    "rank": 46,
+    "current": 65.1,
+    "delta": 3.6
+  },
+  {
+    "country": "Djibouti",
+    "rank": 47,
+    "current": 65.0,
+    "delta": 6.8
+  },
+  {
+    "country": "Cambodia",
+    "rank": 48,
+    "current": 64.6,
+    "delta": 3.5
+  },
+  {
+    "country": "Latvia",
+    "rank": 49,
+    "current": 64.4,
+    "delta": 8.5
+  },
+  {
+    "country": "Burkina Faso",
+    "rank": 50,
+    "current": 64.0,
+    "delta": -5.1
+  },
+  {
+    "country": "Malaysia",
+    "rank": 51,
+    "current": 63.6,
+    "delta": -1.8
+  },
+  {
+    "country": "Japan",
+    "rank": 52,
+    "current": 63.3,
+    "delta": 1.7
+  },
+  {
+    "country": "Azerbaijan",
+    "rank": 53,
+    "current": 63.0,
+    "delta": 9.1
+  },
+  {
+    "country": "Fiji",
+    "rank": 53,
+    "current": 63.0,
+    "delta": 0.5
+  },
+  {
+    "country": "Russia",
+    "rank": 55,
+    "current": 62.9,
+    "delta": 13.2
+  },
+  {
+    "country": "Luxembourg",
+    "rank": 56,
+    "current": 62.8,
+    "delta": -3.4
+  },
+  {
+    "country": "Suriname",
+    "rank": 56,
+    "current": 62.8,
+    "delta": 6.4
+  },
+  {
+    "country": "Sri Lanka",
+    "rank": 58,
+    "current": 62.5,
+    "delta": -0.5
+  },
+  {
+    "country": "El Salvador",
+    "rank": 59,
+    "current": 62.3,
+    "delta": 3.7
+  },
+  {
+    "country": "Papua New Guinea",
+    "rank": 60,
+    "current": 61.8,
+    "delta": 3.3
+  },
+  {
+    "country": "South Korea",
+    "rank": 60,
+    "current": 61.8,
+    "delta": 0.1
+  },
+  {
+    "country": "Greece",
+    "rank": 62,
+    "current": 61.4,
+    "delta": -0.5
+  },
+  {
+    "country": "Singapore",
+    "rank": 63,
+    "current": 61.3,
+    "delta": 1.1
+  },
+  {
+    "country": "Belize",
+    "rank": 64,
+    "current": 60.9,
+    "delta": -0.3
+  },
+  {
+    "country": "Taiwan",
+    "rank": 65,
+    "current": 60.3,
+    "delta": 2.3
+  },
+  {
+    "country": "Bolivia",
+    "rank": 66,
+    "current": 59.6,
+    "delta": 2.1
+  },
+  {
+    "country": "Myanmar",
+    "rank": 66,
+    "current": 59.6,
+    "delta": -10.2
+  },
+  {
+    "country": "Switzerland",
+    "rank": 66,
+    "current": 59.6,
+    "delta": -7.6
+  },
+  {
+    "country": "Colombia",
+    "rank": 69,
+    "current": 59.3,
+    "delta": 1.6
+  },
+  {
+    "country": "Turkiye",
+    "rank": 70,
+    "current": 59.2,
+    "delta": 2.7
+  },
+  {
+    "country": "Kuwait",
+    "rank": 71,
+    "current": 59.0,
+    "delta": -4.9
+  },
+  {
+    "country": "Ethiopia",
+    "rank": 72,
+    "current": 58.8,
+    "delta": 7.6
+  },
+  {
+    "country": "Thailand",
+    "rank": 72,
+    "current": 58.8,
+    "delta": -2.3
+  },
+  {
+    "country": "Kiribati",
+    "rank": 74,
+    "current": 58.6,
+    "delta": 0.3
+  },
+  {
+    "country": "Uruguay",
+    "rank": 75,
+    "current": 58.2,
+    "delta": -15.3
+  },
+  {
+    "country": "Seychelles",
+    "rank": 76,
+    "current": 58.0,
+    "delta": 4.3
+  },
+  {
+    "country": "Uzbekistan",
+    "rank": 77,
+    "current": 57.4,
+    "delta": -7.9
+  },
+  {
+    "country": "South Africa",
+    "rank": 78,
+    "current": 57.2,
+    "delta": -0.4
+  },
+  {
+    "country": "Samoa",
+    "rank": 79,
+    "current": 57.1,
+    "delta": 6.1
+  },
+  {
+    "country": "Costa Rica",
+    "rank": 80,
+    "current": 57.0,
+    "delta": 2.2
+  },
+  {
+    "country": "Tajikistan",
+    "rank": 80,
+    "current": 57.0,
+    "delta": -9.8
+  },
+  {
+    "country": "Guatemala",
+    "rank": 82,
+    "current": 56.8,
+    "delta": -0.3
+  },
+  {
+    "country": "Mexico",
+    "rank": 82,
+    "current": 56.8,
+    "delta": 2.8
+  },
+  {
+    "country": "Slovenia",
+    "rank": 84,
+    "current": 56.7,
+    "delta": -3.4
+  },
+  {
+    "country": "Italy",
+    "rank": 85,
+    "current": 56.4,
+    "delta": -6.5
+  },
+  {
+    "country": "Niger",
+    "rank": 86,
+    "current": 55.9,
+    "delta": 4.1
+  },
+  {
+    "country": "Maldives",
+    "rank": 87,
+    "current": 55.8,
+    "delta": 5.4
+  },
+  {
+    "country": "Jamaica",
+    "rank": 88,
+    "current": 55.1,
+    "delta": -5.5
+  },
+  {
+    "country": "Spain",
+    "rank": 89,
+    "current": 54.1,
+    "delta": 1.9
+  },
+  {
+    "country": "Benin",
+    "rank": 90,
+    "current": 54.0,
+    "delta": 1.7
+  },
+  {
+    "country": "Saudi Arabia",
+    "rank": 91,
+    "current": 53.8,
+    "delta": -0.7
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "rank": 92,
+    "current": 52.3,
+    "delta": 19.6
+  },
+  {
+    "country": "Norway",
+    "rank": 92,
+    "current": 52.3,
+    "delta": 2.6
+  },
+  {
+    "country": "Kyrgyzstan",
+    "rank": 94,
+    "current": 51.9,
+    "delta": 4.4
+  },
+  {
+    "country": "Eswatini",
+    "rank": 95,
+    "current": 51.7,
+    "delta": -1.1
+  },
+  {
+    "country": "Nicaragua",
+    "rank": 96,
+    "current": 51.6,
+    "delta": 7.3
+  },
+  {
+    "country": "Grenada",
+    "rank": 97,
+    "current": 51.0,
+    "delta": 3.7
+  },
+  {
+    "country": "Comoros",
+    "rank": 98,
+    "current": 50.6,
+    "delta": 0.9
+  },
+  {
+    "country": "Haiti",
+    "rank": 98,
+    "current": 50.6,
+    "delta": -0.6
+  },
+  {
+    "country": "Lebanon",
+    "rank": 98,
+    "current": 50.6,
+    "delta": -2.6
+  },
+  {
+    "country": "Albania",
+    "rank": 101,
+    "current": 50.4,
+    "delta": 1.9
+  },
+  {
+    "country": "Cameroon",
+    "rank": 101,
+    "current": 50.4,
+    "delta": 2.0
+  },
+  {
+    "country": "Bahamas",
+    "rank": 103,
+    "current": 50.2,
+    "delta": -0.6
+  },
+  {
+    "country": "Ecuador",
+    "rank": 104,
+    "current": 50.1,
+    "delta": 5.0
+  },
+  {
+    "country": "Panama",
+    "rank": 105,
+    "current": 50.0,
+    "delta": 4.4
+  },
+  {
+    "country": "Moldova",
+    "rank": 106,
+    "current": 49.9,
+    "delta": -4.8
+  },
+  {
+    "country": "Tonga",
+    "rank": 106,
+    "current": 49.9,
+    "delta": 9.0
+  },
+  {
+    "country": "Portugal",
+    "rank": 108,
+    "current": 49.7,
+    "delta": 4.3
+  },
+  {
+    "country": "Iraq",
+    "rank": 109,
+    "current": 49.6,
+    "delta": 2.6
+  },
+  {
+    "country": "Egypt",
+    "rank": 110,
+    "current": 48.9,
+    "delta": -0.8
+  },
+  {
+    "country": "Timor-Leste",
+    "rank": 111,
+    "current": 48.8,
+    "delta": -2.2
+  },
+  {
+    "country": "Sudan",
+    "rank": 112,
+    "current": 48.5,
+    "delta": 1.8
+  },
+  {
+    "country": "Tanzania",
+    "rank": 112,
+    "current": 48.5,
+    "delta": -0.1
+  },
+  {
+    "country": "Uganda",
+    "rank": 114,
+    "current": 48.3,
+    "delta": 0.8
+  },
+  {
+    "country": "Madagascar",
+    "rank": 115,
+    "current": 48.2,
+    "delta": -4.6
+  },
+  {
+    "country": "Republic of Congo",
+    "rank": 116,
+    "current": 48.1,
+    "delta": 0.8
+  },
+  {
+    "country": "Turkmenistan",
+    "rank": 116,
+    "current": 48.1,
+    "delta": -3.5
+  },
+  {
+    "country": "Barbados",
+    "rank": 118,
+    "current": 47.9,
+    "delta": -2.6
+  },
+  {
+    "country": "Nigeria",
+    "rank": 118,
+    "current": 47.9,
+    "delta": -1.6
+  },
+  {
+    "country": "Cuba",
+    "rank": 120,
+    "current": 47.0,
+    "delta": -2.6
+  },
+  {
+    "country": "Micronesia",
+    "rank": 120,
+    "current": 47.0,
+    "delta": -0.7
+  },
+  {
+    "country": "Pakistan",
+    "rank": 122,
+    "current": 46.8,
+    "delta": -2.0
+  },
+  {
+    "country": "Algeria",
+    "rank": 123,
+    "current": 46.7,
+    "delta": 3.9
+  },
+  {
+    "country": "North Macedonia",
+    "rank": 123,
+    "current": 46.7,
+    "delta": -2.8
+  },
+  {
+    "country": "Malawi",
+    "rank": 125,
+    "current": 46.6,
+    "delta": -5.0
+  },
+  {
+    "country": "Venezuela",
+    "rank": 126,
+    "current": 46.1,
+    "delta": -7.5
+  },
+  {
+    "country": "Guinea",
+    "rank": 127,
+    "current": 45.9,
+    "delta": 3.8
+  },
+  {
+    "country": "Dominica",
+    "rank": 128,
+    "current": 45.7,
+    "delta": 4.4
+  },
+  {
+    "country": "Burundi",
+    "rank": 129,
+    "current": 45.4,
+    "delta": 0.1
+  },
+  {
+    "country": "Israel",
+    "rank": 130,
+    "current": 45.3,
+    "delta": -12.9
+  },
+  {
+    "country": "Peru",
+    "rank": 130,
+    "current": 45.3,
+    "delta": 3.3
+  },
+  {
+    "country": "Belarus",
+    "rank": 132,
+    "current": 45.2,
+    "delta": -3.5
+  },
+  {
+    "country": "Bhutan",
+    "rank": 133,
+    "current": 44.7,
+    "delta": -4.8
+  },
+  {
+    "country": "Kazakhstan",
+    "rank": 133,
+    "current": 44.7,
+    "delta": 3.0
+  },
+  {
+    "country": "Solomon Islands",
+    "rank": 135,
+    "current": 44.6,
+    "delta": 4.5
+  },
+  {
+    "country": "Kenya",
+    "rank": 136,
+    "current": 44.2,
+    "delta": -3.2
+  },
+  {
+    "country": "Zambia",
+    "rank": 137,
+    "current": 44.1,
+    "delta": -0.8
+  },
+  {
+    "country": "Equatorial Guinea",
+    "rank": 138,
+    "current": 43.7,
+    "delta": 2.4
+  },
+  {
+    "country": "Malta",
+    "rank": 139,
+    "current": 43.5,
+    "delta": -13.8
+  },
+  {
+    "country": "Montenegro",
+    "rank": 140,
+    "current": 43.0,
+    "delta": -1.4
+  },
+  {
+    "country": "Chad",
+    "rank": 141,
+    "current": 42.7,
+    "delta": 1.0
+  },
+  {
+    "country": "Vanuatu",
+    "rank": 141,
+    "current": 42.7,
+    "delta": 1.9
+  },
+  {
+    "country": "Bahrain",
+    "rank": 143,
+    "current": 42.5,
+    "delta": 4.6
+  },
+  {
+    "country": "Cote d'Ivoire",
+    "rank": 144,
+    "current": 42.2,
+    "delta": -2.2
+  },
+  {
+    "country": "Guinea-Bissau",
+    "rank": 144,
+    "current": 42.2,
+    "delta": -2.0
+  },
+  {
+    "country": "Mauritania",
+    "rank": 146,
+    "current": 42.1,
+    "delta": 0.8
+  },
+  {
+    "country": "Rwanda",
+    "rank": 147,
+    "current": 41.6,
+    "delta": -2.2
+  },
+  {
+    "country": "Afghanistan",
+    "rank": 148,
+    "current": 41.1,
+    "delta": -3.2
+  },
+  {
+    "country": "Angola",
+    "rank": 149,
+    "current": 41.0,
+    "delta": 2.0
+  },
+  {
+    "country": "Togo",
+    "rank": 150,
+    "current": 40.3,
+    "delta": 0.3
+  },
+  {
+    "country": "Tunisia",
+    "rank": 151,
+    "current": 40.2,
+    "delta": -1.5
+  },
+  {
+    "country": "Mozambique",
+    "rank": 152,
+    "current": 40.1,
+    "delta": 3.0
+  },
+  {
+    "country": "Sierra Leone",
+    "rank": 152,
+    "current": 40.1,
+    "delta": -6.1
+  },
+  {
+    "country": "Saint Lucia",
+    "rank": 154,
+    "current": 39.3,
+    "delta": -2.6
+  },
+  {
+    "country": "Dem. Rep. Congo",
+    "rank": 155,
+    "current": 39.0,
+    "delta": -0.5
+  },
+  {
+    "country": "Honduras",
+    "rank": 156,
+    "current": 38.6,
+    "delta": -2.1
+  },
+  {
+    "country": "Central African Republic",
+    "rank": 157,
+    "current": 38.3,
+    "delta": -0.1
+  },
+  {
+    "country": "Jordan",
+    "rank": 158,
+    "current": 38.1,
+    "delta": 1.9
+  },
+  {
+    "country": "Iran",
+    "rank": 159,
+    "current": 37.8,
+    "delta": -0.2
+  },
+  {
+    "country": "United Arab Emirates",
+    "rank": 160,
+    "current": 37.5,
+    "delta": 2.4
+  },
+  {
+    "country": "Iceland",
+    "rank": 161,
+    "current": 36.5,
+    "delta": 2.9
+  },
+  {
+    "country": "Cyprus",
+    "rank": 162,
+    "current": 35.7,
+    "delta": -3.2
+  },
+  {
+    "country": "Qatar",
+    "rank": 162,
+    "current": 35.7,
+    "delta": 0.0
+  },
+  {
+    "country": "Morocco",
+    "rank": 164,
+    "current": 35.6,
+    "delta": -6.5
+  },
+  {
+    "country": "Armenia",
+    "rank": 165,
+    "current": 35.5,
+    "delta": -20.8
+  },
+  {
+    "country": "Zimbabwe",
+    "rank": 165,
+    "current": 35.5,
+    "delta": 5.0
+  },
+  {
+    "country": "Botswana",
+    "rank": 167,
+    "current": 35.3,
+    "delta": 1.7
+  },
+  {
+    "country": "Lesotho",
+    "rank": 168,
+    "current": 34.3,
+    "delta": -1.5
+  },
+  {
+    "country": "Liberia",
+    "rank": 169,
+    "current": 34.0,
+    "delta": -4.5
+  },
+  {
+    "country": "Gambia",
+    "rank": 170,
+    "current": 33.7,
+    "delta": -7.7
+  },
+  {
+    "country": "Eritrea",
+    "rank": 171,
+    "current": 31.9,
+    "delta": -2.1
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "rank": 172,
+    "current": 31.7,
+    "delta": -7.8
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "rank": 173,
+    "current": 31.4,
+    "delta": 1.2
+  },
+  {
+    "country": "Mongolia",
+    "rank": 174,
+    "current": 29.0,
+    "delta": -12.2
+  },
+  {
+    "country": "Gabon",
+    "rank": 175,
+    "current": 28.2,
+    "delta": -0.7
+  },
+  {
+    "country": "Cabo Verde",
+    "rank": 176,
+    "current": 28.0,
+    "delta": 1.6
+  },
+  {
+    "country": "Georgia",
+    "rank": 177,
+    "current": 26.0,
+    "delta": 2.6
+  },
+  {
+    "country": "Namibia",
+    "rank": 178,
+    "current": 25.5,
+    "delta": 2.4
+  },
+  {
+    "country": "Brunei Darussalam",
+    "rank": 179,
+    "current": 24.1,
+    "delta": 10.7
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "rank": 180,
+    "current": 22.5,
+    "delta": 7.3
+  }
+]

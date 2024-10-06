@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Interactive Map</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Info box to display clicked country details -->
+    <div id="info-box" class="info-box">
+        <button id="close-box">Close</button>
+        <h2 id="country-name"></h2>
+        <p id="country-code"></p>
+        <p id="country-capital"></p>
+        <p id="country-landarea"></p>
+        <p id="country-rank"></p> <!-- EPI Rank -->
+        <p id="country-score"></p> <!-- EPI Score -->
+        <p id="country-ten-year"></p> <!-- EPI 10 Year Score -->
+        <p id="country-air-quality"></p> <!-- Air Quality Rank -->
+        <p id="country-air-quality-score"></p> <!-- Air Quality Score -->
+        <p id="country-air-quality-ten-year"></p> <!-- Air Quality 10 Year Score -->
+        <p id="country-climate-change"></p> <!-- Climate Change Rank -->
+        <p id="country-climate-change-score"></p> <!-- Climate Change Score -->
+        <p id="country-climate-change-ten-year"></p> <!-- Climate Change 10 Year Score -->
+    </div>
+    
+    
+
+    <div id="map-legend">
+        <h3>Score Legend</h3>
+        <ul>
+            <li><span style="background-color: #1a9850;"></span> 80+ (Excellent)</li>
+            <li><span style="background-color: #66bd63;"></span> 60-79 (Good)</li>
+            <li><span style="background-color: #fdae61;"></span> 40-59 (Average)</li>
+            <li><span style="background-color: #f46d43;"></span> 20-39 (Poor)</li>
+            <li><span style="background-color: #d73027;"></span> < 20 (Very Poor)</li>
+        </ul>
+    </div>
+    
+
+    <div id="map-canvas"></div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCiwuNykdMSzjhCcRmag9wIR4987puqEwM"></script>
+    <script src="script.js"></script>
+   
+</body>
+</html>
